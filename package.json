@@ -1,9 +1,8 @@
 {
-  "name": "new-test-webpack4",
+  "name": "vue-webpack4",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "ender <hejiajun@travelsky.com>",
-  "private": true,
+  "description": "An upgrade from the webpack3 template to the webpack4 project",
+  "author": "EnderH",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
